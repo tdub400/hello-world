@@ -1,2 +1,5 @@
 # hello-world
-Creating first repository
+
+Hi!
+
+I'm Tom. Learning how to Git
